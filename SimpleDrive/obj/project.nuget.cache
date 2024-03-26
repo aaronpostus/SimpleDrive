@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Mr/2q8cZr8qZqy4HT4pDC9H2p2ZYtbkB1GdZTdZOGgVK0MmNu/Qyj68/aXuR2QtMeyaa0rG3RsVQViWJMzCjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rawkd\\OneDrive - The Ohio State University\\Documents\\GitHub\\Algebra\\simple-drive\\SimpleDrive\\SimpleDrive\\SimpleDriveApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rawkd\\.nuget\\packages\\amazon.extensions.cognitoauthentication\\2.5.2\\amazon.extensions.cognitoauthentication.2.5.2.nupkg.sha512",
+    "C:\\Users\\rawkd\\.nuget\\packages\\awssdk.cognitoidentity\\3.7.0.2\\awssdk.cognitoidentity.3.7.0.2.nupkg.sha512",
+    "C:\\Users\\rawkd\\.nuget\\packages\\awssdk.cognitoidentityprovider\\3.7.303.3\\awssdk.cognitoidentityprovider.3.7.303.3.nupkg.sha512",
+    "C:\\Users\\rawkd\\.nuget\\packages\\awssdk.core\\3.7.302.19\\awssdk.core.3.7.302.19.nupkg.sha512",
+    "C:\\Users\\rawkd\\.nuget\\packages\\awssdk.s3\\3.7.306.2\\awssdk.s3.3.7.306.2.nupkg.sha512",
+    "C:\\Users\\rawkd\\.nuget\\packages\\awssdk.securitytoken\\3.7.0.2\\awssdk.securitytoken.3.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

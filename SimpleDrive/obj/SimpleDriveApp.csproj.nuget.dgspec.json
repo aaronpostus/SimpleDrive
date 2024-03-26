@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rawkd\\OneDrive - The Ohio State University\\Documents\\GitHub\\Algebra\\simple-drive\\SimpleDrive\\SimpleDrive\\SimpleDriveApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rawkd\\OneDrive - The Ohio State University\\Documents\\GitHub\\Algebra\\simple-drive\\SimpleDrive\\SimpleDrive\\SimpleDriveApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rawkd\\OneDrive - The Ohio State University\\Documents\\GitHub\\Algebra\\simple-drive\\SimpleDrive\\SimpleDrive\\SimpleDriveApp.csproj",
+        "projectName": "SimpleDriveApp",
+        "projectPath": "C:\\Users\\rawkd\\OneDrive - The Ohio State University\\Documents\\GitHub\\Algebra\\simple-drive\\SimpleDrive\\SimpleDrive\\SimpleDriveApp.csproj",
+        "packagesPath": "C:\\Users\\rawkd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rawkd\\OneDrive - The Ohio State University\\Documents\\GitHub\\Algebra\\simple-drive\\SimpleDrive\\SimpleDrive\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rawkd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "AWSSDK.CognitoIdentityProvider": {
+              "target": "Package",
+              "version": "[3.7.303.3, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.306.2, )"
+            },
+            "Amazon.Extensions.CognitoAuthentication": {
+              "target": "Package",
+              "version": "[2.5.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

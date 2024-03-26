@@ -1,0 +1,45 @@
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\bin\Debug\net48\SimpleDriveApp.exe.config
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\bin\Debug\net48\SimpleDriveApp.exe
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\bin\Debug\net48\SimpleDriveApp.pdb
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\bin\Debug\net48\Amazon.Extensions.CognitoAuthentication.dll
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\bin\Debug\net48\AWSSDK.CognitoIdentity.dll
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\bin\Debug\net48\AWSSDK.CognitoIdentityProvider.dll
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\bin\Debug\net48\AWSSDK.Core.dll
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\bin\Debug\net48\AWSSDK.S3.dll
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\bin\Debug\net48\AWSSDK.SecurityToken.dll
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.csproj.AssemblyReference.cache
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.Form1.resources
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.Properties.Resources.resources
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.csproj.GenerateResource.cache
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.AssemblyInfoInputs.cache
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.AssemblyInfo.cs
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.csproj.CoreCompileInputs.cache
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.csproj.CopyComplete
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.exe
+C:\Users\rawkd\source\repos\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.pdb
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\bin\Debug\net48\SimpleDriveApp.exe.config
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\bin\Debug\net48\SimpleDriveApp.exe
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\bin\Debug\net48\SimpleDriveApp.pdb
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\bin\Debug\net48\Amazon.Extensions.CognitoAuthentication.dll
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\bin\Debug\net48\AWSSDK.CognitoIdentity.dll
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\bin\Debug\net48\AWSSDK.CognitoIdentityProvider.dll
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\bin\Debug\net48\AWSSDK.Core.dll
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\bin\Debug\net48\AWSSDK.S3.dll
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\bin\Debug\net48\AWSSDK.SecurityToken.dll
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.csproj.AssemblyReference.cache
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.Form1.resources
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.Properties.Resources.resources
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.csproj.GenerateResource.cache
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.AssemblyInfoInputs.cache
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.AssemblyInfo.cs
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.csproj.CoreCompileInputs.cache
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.sourcelink.json
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.csproj.CopyComplete
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.exe
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.pdb
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.Views.Drive.resources
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.Views.Login.resources
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.Views.Register.resources
+C:\Users\rawkd\OneDrive - The Ohio State University\Documents\GitHub\Algebra\simple-drive\SimpleDrive\SimpleDrive\obj\Debug\net48\SimpleDriveApp.Views.RecoverPasswordView.resources

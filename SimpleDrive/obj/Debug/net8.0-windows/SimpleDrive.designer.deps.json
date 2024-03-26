@@ -1,0 +1,120 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Amazon.Extensions.CognitoAuthentication/2.5.2": {
+        "dependencies": {
+          "AWSSDK.CognitoIdentity": "3.7.0.2",
+          "AWSSDK.CognitoIdentityProvider": "3.7.303.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Amazon.Extensions.CognitoAuthentication.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AWSSDK.CognitoIdentity/3.7.0.2": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.302.19",
+          "AWSSDK.SecurityToken": "3.7.0.2"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.CognitoIdentity.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.0.2"
+          }
+        }
+      },
+      "AWSSDK.CognitoIdentityProvider/3.7.303.3": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.302.19"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.CognitoIdentityProvider.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.303.3"
+          }
+        }
+      },
+      "AWSSDK.Core/3.7.302.19": {
+        "runtime": {
+          "lib/net8.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.302.19"
+          }
+        }
+      },
+      "AWSSDK.S3/3.7.306.2": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.302.19"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.306.2"
+          }
+        }
+      },
+      "AWSSDK.SecurityToken/3.7.0.2": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.302.19"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.SecurityToken.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.0.2"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Amazon.Extensions.CognitoAuthentication/2.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Y8wtU/9ZIS/LOrNPHdrtK6fby+cgZTA6R/2VLw3qs5Ci0qvsncDHd/FYNZl8fEp/bfo8FZKF3wbffT5OmVd9ew==",
+      "path": "amazon.extensions.cognitoauthentication/2.5.2",
+      "hashPath": "amazon.extensions.cognitoauthentication.2.5.2.nupkg.sha512"
+    },
+    "AWSSDK.CognitoIdentity/3.7.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fqWI5WQ+73qlnIK5KZ3peKMweX7nE8aj4uMX3t9OLAvjUP9HFDcb6N4EVn2ZXzqi35eR/LuqdwqxCHrFrUMjeA==",
+      "path": "awssdk.cognitoidentity/3.7.0.2",
+      "hashPath": "awssdk.cognitoidentity.3.7.0.2.nupkg.sha512"
+    },
+    "AWSSDK.CognitoIdentityProvider/3.7.303.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2/yU45xxiKx440cUuQIDHM/LmI0Iy8OUzD3RNabK+VDU37tkKfksa0vxk+cLegPhKZyg+PjRmXuUTPqLDOKhOg==",
+      "path": "awssdk.cognitoidentityprovider/3.7.303.3",
+      "hashPath": "awssdk.cognitoidentityprovider.3.7.303.3.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.7.302.19": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z4AdekJbJcegl0gt/K3QBikQw7pnfsFI6Rfev/zn/EHMFukdERneJNTGdGxZujfg1u5d43Mb6wr3wEAtYHq5WA==",
+      "path": "awssdk.core/3.7.302.19",
+      "hashPath": "awssdk.core.3.7.302.19.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.7.306.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-N68jszRe7IMkYdTXWr9d/Cy+mJikZsv8fXMwx51cpePgJzE+pxyxlYW74yHSy8VPXA/BcKnYcfzLHqN1c2C6jA==",
+      "path": "awssdk.s3/3.7.306.2",
+      "hashPath": "awssdk.s3.3.7.306.2.nupkg.sha512"
+    },
+    "AWSSDK.SecurityToken/3.7.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OFZjQ+AM4tDP/gVpqHm2MOY2Ibr/3PfWTACc7nZEm1AjrBg514/n70+Ooo9mqzBVFwOv11+QbHvKxbR/+jHv8A==",
+      "path": "awssdk.securitytoken/3.7.0.2",
+      "hashPath": "awssdk.securitytoken.3.7.0.2.nupkg.sha512"
+    }
+  }
+}
