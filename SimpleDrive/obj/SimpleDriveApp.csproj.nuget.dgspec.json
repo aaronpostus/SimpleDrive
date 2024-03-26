@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rawkd\\OneDrive - The Ohio State University\\Documents\\GitHub\\Algebra\\simple-drive\\SimpleDrive\\SimpleDrive\\SimpleDriveApp.csproj": {}
+    "C:\\Users\\rawkd\\OneDrive - The Ohio State University\\Documents\\GitHub\\Algebra\\SimpleDrive\\SimpleDrive\\SimpleDriveApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rawkd\\OneDrive - The Ohio State University\\Documents\\GitHub\\Algebra\\simple-drive\\SimpleDrive\\SimpleDrive\\SimpleDriveApp.csproj": {
+    "C:\\Users\\rawkd\\OneDrive - The Ohio State University\\Documents\\GitHub\\Algebra\\SimpleDrive\\SimpleDrive\\SimpleDriveApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rawkd\\OneDrive - The Ohio State University\\Documents\\GitHub\\Algebra\\simple-drive\\SimpleDrive\\SimpleDrive\\SimpleDriveApp.csproj",
+        "projectUniqueName": "C:\\Users\\rawkd\\OneDrive - The Ohio State University\\Documents\\GitHub\\Algebra\\SimpleDrive\\SimpleDrive\\SimpleDriveApp.csproj",
         "projectName": "SimpleDriveApp",
-        "projectPath": "C:\\Users\\rawkd\\OneDrive - The Ohio State University\\Documents\\GitHub\\Algebra\\simple-drive\\SimpleDrive\\SimpleDrive\\SimpleDriveApp.csproj",
+        "projectPath": "C:\\Users\\rawkd\\OneDrive - The Ohio State University\\Documents\\GitHub\\Algebra\\SimpleDrive\\SimpleDrive\\SimpleDriveApp.csproj",
         "packagesPath": "C:\\Users\\rawkd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rawkd\\OneDrive - The Ohio State University\\Documents\\GitHub\\Algebra\\simple-drive\\SimpleDrive\\SimpleDrive\\obj\\",
+        "outputPath": "C:\\Users\\rawkd\\OneDrive - The Ohio State University\\Documents\\GitHub\\Algebra\\SimpleDrive\\SimpleDrive\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

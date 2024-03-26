@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleDriveApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e96ae2fba1eb7e27aa6cef7639290cfaa7c5ed57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fe767cbd7fbfa1b3f01fe1f587ce059c8f62ae5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleDriveApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleDriveApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
