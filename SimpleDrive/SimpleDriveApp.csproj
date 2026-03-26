@@ -8,12 +8,14 @@
 		<LangVersion>10.0</LangVersion>
 		<UseWindowsForms>true</UseWindowsForms>
 		<ImplicitUsings>enable</ImplicitUsings>
+		<GenerateResourceUsePreserializedResources>true</GenerateResourceUsePreserializedResources>
 	</PropertyGroup>
 
 	<ItemGroup>
 		<PackageReference Include="Amazon.Extensions.CognitoAuthentication" Version="2.5.2" />
 		<PackageReference Include="AWSSDK.CognitoIdentityProvider" Version="3.7.303.3" />
 		<PackageReference Include="AWSSDK.S3" Version="3.7.306.2" />
+		<PackageReference Include="System.Resources.Extensions" Version="10.0.5" />
 	</ItemGroup>
 
 	<ItemGroup>
