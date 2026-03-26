@@ -32,9 +32,11 @@ namespace SimpleDrive
         private LoginView _loginView;
         private Register _registrationView;
         private RecoverPasswordView _forgotPassView;
+        private AdminView _adminView;
+        private BuilderView _builderView;
         #endregion
 
-        public enum UserControlType { DRIVE, REGISTER, LOGIN, RECOVER_PASSWORD }
+        public enum UserControlType { DRIVE, REGISTER, LOGIN, RECOVER_PASSWORD, ADMIN, BUILDER }
 
         private static Dictionary<UserControlType, SimpleDriveApp.View> _userControls;
         public SimpleDriveView()
@@ -50,10 +52,35 @@ namespace SimpleDrive
                 { UserControlType.DRIVE, _driveView },
                 { UserControlType.REGISTER, _registrationView },
                 { UserControlType.LOGIN, _loginView },
-                { UserControlType.RECOVER_PASSWORD, _forgotPassView }
+                { UserControlType.RECOVER_PASSWORD, _forgotPassView },
+                { UserControlType.ADMIN, _adminView },
+                { UserControlType.BUILDER, _builderView }
             };
 
             DisplayScreen(UserControlType.LOGIN);
+
+            CommandBar.KeyDown += CommandBar_KeyDown;
+        }
+
+        private void CommandBar_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                e.SuppressKeyPress = true;
+                var command = CommandBar.Text.Trim().ToLowerInvariant();
+                CommandBar.Text = string.Empty;
+
+                switch (command)
+                {
+                    case "/a":
+                    case "/admin":
+                        DisplayScreen(UserControlType.ADMIN);
+                        break;
+                    case "/build":
+                        DisplayScreen(UserControlType.BUILDER);
+                        break;
+                }
+            }
         }
 
         private void InitializeModels() {
@@ -81,10 +108,14 @@ namespace SimpleDrive
             _loginView = new(_authController);
             _registrationView = new(_registrationController);
             _forgotPassView = new(_recoverPassController);
+            _adminView = new();
+            _builderView = new(_sessionModel);
             _driveView.Parent = this;
             _loginView.Parent = this;
             _registrationView.Parent = this;
             _forgotPassView.Parent = this;
+            _adminView.Parent = this;
+            _builderView.Parent = this;
         }
 
         public static void DisplayScreen(UserControlType userControl)
